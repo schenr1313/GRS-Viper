@@ -4,19 +4,19 @@
 		"name": "batocera-v38.zip",
 		"split_name": "batocera-v38.zip",
 		"img": "https://github.com/schenr1313/GRS-Viper/blob/main/images/batecera.png?raw=true",
-		"md5": "31883df48ee39bbb4f1c101d6fd274f0",
-		"size": "1302811104",
+		"md5": "d6ef9c7c94e1ec1b211e666978e75acf",
+		"size": "1302865621",
 		"file": [{
 				"name": "batocera-v38.zip100",
-				"md5": "7fa1e52ed98fa74ef84a50a2c3b7d229",
+				"md5": "abbe756d469b7deab7902ffb19f92140",
 				"url": "https://github.com/schenr1313/GRS-Viper/releases/download/batecera-v38/batocera-v38.zip100",
 				"size": "1073741824"
 			},
 			{
 				"name": "batocera-v38.zip101",
-				"md5": "511a972c484c511fcd0e4af6ef3f572d",
+				"md5": "46f949d958d56cd627f0035c330e19b9",
 				"url": "https://github.com/schenr1313/GRS-Viper/releases/download/batecera-v38/batocera-v38.zip101",
-				"size": "229069280"
+				"size": "229123797"
 			}
 		]
 	}]
